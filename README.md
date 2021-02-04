@@ -14,4 +14,4 @@ des Energieverbrauchs, um den Sensor mit Akkus zu betreiben.
 
 ![Picture](Sensor.jpg)
 
-Den genauen Aufbau beschreibt der Artikel **[LoRaWAN-Sensor für den Heizöltank](https://www.heise.de/select/make/2020/6/2021114115699440435)** in der Make-Ausgabe 6/20 ab Seite 66. Hier gibt es den Code zum Download.
+Den genauen Aufbau beschreibt der Artikel **[LoRaWAN-Sensor für den Heizöltank](https://www.heise.de/select/make/2020/6/2021114115699440435)** in der Make-Ausgabe 6/20 ab Seite 66. Hier gibt es den Code und die 3D-Datei des Trichters zum Download.
